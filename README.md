@@ -1,4 +1,6 @@
-# [DBJSON - testServer](https://dbjson.github.io/testserver/)
+<hr>
+<h1><a href='https://dbjson.github.io/testserver/' target='_blank'>DBJSON - testServer</a></h1>
+<hr>
 
 <details>
   <summary>Reference</summary>
