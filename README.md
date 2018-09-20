@@ -10,6 +10,7 @@
   <summary>Markdown</summary>
 <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">GitHub Flavored Markdown</a>
 
+<pre><code>
 ```markdown
 Syntax highlighted code block
 
@@ -27,7 +28,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+</code></pre>
 </details>
 
 
