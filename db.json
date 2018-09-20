@@ -1,11 +1,27 @@
 {
-  "posts": [
+  "posts":[
     {
-      "id": 1,
-      "path": "https://dbjson.github.io/testserver"
+      "id":1,
+      "path":"https://dbjson.github.io/testserver"
     }
   ],
-  "test": {
-    "server": "dbjson"
-  }
+  "test":{
+    "server":"dbjson"
+  },
+  "state":[
+    {
+      "name":"state1"
+    },
+    {
+      "name":"state2"
+    }
+  ],
+  "capital":[
+    {
+      "name":"capital1"
+    },
+    {
+      "name":"capital2"
+    }
+  ]
 }
