@@ -1,5 +1,5 @@
-<hr>
-<h1><a href='https://dbjson.github.io/testserver/' target='_blank'>DBJSON - testServer</a></h1>
+
+<h2><a href='https://dbjson.github.io/testserver/' target='_blank'>DBJSON - testServer</a></h2>
 <hr>
 
 <details>
