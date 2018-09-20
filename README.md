@@ -1,34 +1,16 @@
 # [DBJSON - testServer](https://dbjson.github.io/testserver/)
 
-[Editor](https://github.com/dbjson/testserver/edit/master/README.md)
-
-[Repository Settings](https://github.com/dbjson/testserver/settings)
-
-[Documentation](https://help.github.com/categories/github-pages-basics/) 
-
 <details>
-  <summary>Markdown</summary>
-<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">GitHub Flavored Markdown</a>
+  <summary>Reference</summary>
+  
+<a href="https://github.com/dbjson/testserver/edit/master/README.md" target="_blank">Editor</a>
 
-<pre><code>
-```markdown
-Syntax highlighted code block
+<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">Markdown</a>
 
-# Header 1
-## Header 2
-### Header 3
+<a href='https://github.com/dbjson/testserver/settings' target="_blank">Repository Settings</a>
 
-- Bulleted
-- List
+<a href='https://help.github.com/categories/github-pages-basics/' target='_blank'>Documentation</a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-</code></pre>
 </details>
 
 
