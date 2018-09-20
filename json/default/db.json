@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "path": "https://dbjson.github.io/testserver"
+    }
+  ],
+  "test": {
+    "server": "dbjson"
+  }
+}
