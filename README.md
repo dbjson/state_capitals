@@ -8,7 +8,7 @@
 
 <details>
   <summary>Markdown</summary>
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">GitHub Flavored Markdown</a>
 
 ```markdown
 Syntax highlighted code block
