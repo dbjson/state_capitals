@@ -1,14 +1,5 @@
 {
-  "posts":[
-    {
-      "id":1,
-      "path":"https://dbjson.github.io/testserver"
-    }
-  ],
-  "test":{
-    "server":"dbjson"
-  },
-  "SO52432518":{
+  "State Capitals":{
     "State":[
       {
         "name":"California"
