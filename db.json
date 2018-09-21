@@ -1,24 +1,24 @@
 {
-    "State":[
+    "States":[
       {
-        "name":"California"
+        "State":"California"
       },
       {
-        "name":"Nevada"
+        "State":"Nevada"
       },
       {
-        "name":"Mississippi"
+        "State":"Mississippi"
       }
     ],
-    "Capital":[
+    "Capitals":[
       {
-        "name":"Sacramento"
+        "City":"Sacramento"
       },
       {
-        "name":"Carson City"
+        "City":"Carson City"
       },
       {
-        "name":"Jackson"
+        "City":"Jackson"
       }
     ]
  }
