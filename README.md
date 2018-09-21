@@ -1,5 +1,5 @@
 
-<h2><a href='https://dbjson.github.io/testserver/' target='_blank'>DBJSON - State Capitals</a></h2>
+<h2><a href='https://dbjson.github.io/testserver/' target='_blank'>DBJSON - testServer</a></h2>
 <hr>
 <h3><a href="https://my-json-server.typicode.com/dbjson/testserver" target='_blank'>./testserver/</a></h3>
 <details>
