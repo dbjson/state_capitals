@@ -2,7 +2,7 @@
 <h2><a href='https://dbjson.github.io/testserver/' target='_blank'>DBJSON - testServer</a></h2>
 <hr>
 <h3><a href="https://my-json-server.typicode.com/dbjson/testserver" target='_blank'>./root/db.json</a></h3>
-<h3><a href='https://my-json-server.typicode.com/dbjson/testserver/SO52432518' target='_blank'>./root/SO52432518</a></h3>
+<h3><a href='https://my-json-server.typicode.com/dbjson/testserver/State&20Capitals' target='_blank'>./root/State Capitals</a></h3>
 <details>
   <summary>Reference</summary>
   
