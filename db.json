@@ -1,26 +1,24 @@
 {
-  "State Capitals":{
-    "State":[
-      {
-        "name":"California"
-      },
-      {
-        "name":"Nevada"
-      },
-      {
-        "name":"Mississippi"
-      }
-    ],
-    "Capital":[
-      {
-        "name":"Sacramento"
-      },
-      {
-        "name":"Carson City"
-      },
-      {
-        "name":"Jackson"
-      }
-    ]
-  }
+  "State":[
+    {
+      "name":"California"
+    },
+    {
+      "name":"Nevada"
+    },
+    {
+      "name":"Mississippi"
+    }
+  ],
+  "Capital":[
+    {
+      "name":"Sacramento"
+    },
+    {
+      "name":"Carson City"
+    },
+    {
+      "name":"Jackson"
+    }
+  ]
 }
