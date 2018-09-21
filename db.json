@@ -9,21 +9,27 @@
     "server":"dbjson"
   },
   "SO52432518":{
-  "State":[
-    {
-      "name":"California"
-    },
-    {
-      "namee":"Nevada"
-    }
-  ],
-  "Capital":[
-    {
-      "name":"Sacramento"
-    },
-    {
-      "name":"Carson City"
-    }
-  ]
+    "State":[
+      {
+        "name":"California"
+      },
+      {
+        "name":"Nevada"
+      },
+      {
+        "name":"Mississippi"
+      }
+    ],
+    "Capital":[
+      {
+        "name":"Sacramento"
+      },
+      {
+        "name":"Carson City"
+      },
+      {
+        "name":"Jackson"
+      }
+    ]
   }
 }
